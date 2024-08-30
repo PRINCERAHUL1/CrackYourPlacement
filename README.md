@@ -10,6 +10,19 @@ The 45 Day DSA Challenge is a competitive coding challenge aimed for enhancing p
 
 This repository serves as a record of this journey and tracking my progress through the challenge. Here, you will find all the solutions to the problems I have solved during the challenge.
 
+## Start Date:
+
+16/07/2024
+
+## Expected End Date:
+
+29/08/2024
+
+## Current Status
+
+Ongoing <p>
+The challenge was not completed within the initial 45-day timeframe. However, consistency was upheld, and I am actively continuing the challenge until the sheet is completed.
+
 ## Connect with Me
 
 - **LeetCode ID:** [rmrahul258](https://leetcode.com/u/rmrahul258/)
